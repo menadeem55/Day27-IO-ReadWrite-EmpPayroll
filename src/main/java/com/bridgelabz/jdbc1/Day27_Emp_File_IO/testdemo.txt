@@ -1,0 +1,4 @@
+Id : 1001
+Name : Nadeem Akhtar
+Salary : 84761
+Date : 23-02-2023
